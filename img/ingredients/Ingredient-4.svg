@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="42px" viewBox="0 0 51 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Ingredient-4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-134.000000, -1060.000000)">
+            <g id="Ingredients" transform="translate(14.000000, 538.000000)">
+                <g id="Inspiration" transform="translate(15.500000, 523.000000)">
+                    <g id="Ingredient-4" transform="translate(104.500000, 0.000000)">
+                        <rect id="Rectangle" stroke="#DA382C" stroke-width="2" x="1" y="0" width="41.98" height="31.26" rx="4.09"></rect>
+                        <path d="M49.26,12.17 L49.26,35.25 C49.26,36.3347354 48.8290905,37.3750429 48.0620667,38.1420667 C47.2950429,38.9090905 46.2547354,39.34 45.17,39.34 L11.36,39.34 C9.10115537,39.34 7.27,37.5088446 7.27,35.25 L7.27,31.25 L38.89,31.25 C41.1488446,31.25 42.98,29.4188446 42.98,27.16 L42.98,8.08 L45.17,8.08 C47.4288446,8.08 49.26,9.91115537 49.26,12.17 L49.26,12.17 Z" id="Path" stroke="#DA382C" stroke-width="2"></path>
+                        <path d="M0.99,8.26 L42.98,8.26" id="Path" stroke="#DA382C" stroke-width="2"></path>
+                        <path d="M49.03,16.64 L42.75,16.64" id="Path" stroke="#DA382C" stroke-width="2"></path>
+                        <circle id="Oval" fill="#DA382B" fill-rule="nonzero" cx="8.24" cy="3.24" r="1.24"></circle>
+                        <circle id="Oval" fill="#DA382B" fill-rule="nonzero" cx="12.24" cy="3.24" r="1.24"></circle>
+                        <circle id="Oval" fill="#DA382B" fill-rule="nonzero" cx="16.24" cy="3.24" r="1.24"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

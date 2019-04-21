@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="39px" viewBox="0 0 179 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.9%" y="-2.5%" width="103.9%" height="105.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-5.000000, -6.000000)">
+            <g id="Header" filter="url(#filter-1)" transform="translate(-150.000000, -15.000000)">
+                <g id="Top" transform="translate(159.000000, 22.000000)">
+                    <g id="Group">
+                        <text id="Website" font-family="RobotoSlab-Light, Roboto Slab" font-size="21" font-weight="300" letter-spacing="0.300000012" fill="#232323">
+                            <tspan x="40" y="22">Webs</tspan>
+                            <tspan x="94.1716797" y="22" letter-spacing="1">i</tspan>
+                            <tspan x="101.713672" y="22" letter-spacing="0.8">te</tspan>
+                        </text>
+                        <text id="Chef" font-family="RobotoSlab-Bold, Roboto Slab" font-size="21" font-weight="bold" fill="#232323">
+                            <tspan x="125" y="22">Chef</tspan>
+                        </text>
+                        <g id="logo" transform="translate(0.000000, 1.000000)" fill="#30B7F6" fill-rule="nonzero">
+                            <path d="M23.9596331,11.1149196 L19.3200403,11.1149196 C19.3655086,11.4274557 19.386903,11.7430225 19.3840347,12.0588356 C19.3739727,15.3532406 17.2271703,18.2600525 14.0814449,19.2386445 C10.9357195,20.2172366 7.51880248,19.0412216 5.64167902,16.3338941 C3.76455557,13.6265666 3.861479,10.0142392 5.88107936,7.41146559 C7.90067972,4.80869202 11.3757431,3.81759734 14.4644665,4.96346732 L21.7198297,4.96346732 C18.2576491,0.181373905 11.8312054,-1.37163887 6.5673375,1.30171989 C1.30346965,3.97507864 -1.23354824,10.0803616 0.585468642,15.696968 C2.40448552,21.3135744 8.03897631,24.7724062 13.8706667,23.8523217 C19.702357,22.9322371 23.9982319,17.9066597 23.9996296,12.0028406 C24.002456,11.7063598 23.989104,11.4099456 23.9596331,11.1149196 L23.9596331,11.1149196 Z" id="Path"></path>
+                            <polygon id="Path" points="8 22 8 31 17 22.3864043"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
